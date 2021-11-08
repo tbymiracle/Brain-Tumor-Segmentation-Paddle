@@ -1,8 +1,3 @@
-# import keras
-# from keras import layers
-# from keras.layers import Input, Dense, Activation, ZeroPadding2D, BatchNormalization, Flatten, Conv2D, Lambda,Concatenate
-# from keras.layers import AveragePooling2D, MaxPooling2D, Dropout, GlobalMaxPooling2D, GlobalAveragePooling2D, Add
-# from keras.models import Model
 
 import paddle
 from paddle import nn
