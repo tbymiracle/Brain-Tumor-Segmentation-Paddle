@@ -4,7 +4,7 @@
 ## 1.Introduction
 This project is based on the paddlepaddle_V2.1 framework to reproduce Brain-Tumor-Segmentation.  
 
-We put our project in paddle-bts/.
+
 ## 2.Result
 
 The model is trained on the train set of BraTS2015, and we test it on the 0027 image(an image has 240 slices) as the author did.
