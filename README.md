@@ -1,6 +1,5 @@
 # Brain-Tumor-Segmentation-Paddle
 
-# Paddle-Brain-Tumor-Segmentation
 
 ## 1.Introduction
 This project is based on the paddlepaddle_V2.1 framework to reproduce Brain-Tumor-Segmentation.  
